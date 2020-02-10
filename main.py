@@ -3,12 +3,16 @@ This is a discord bot created to amuse personal friends.
 This bot is reactive to various members of a discord server, responding to messages and the like.
 This was more a project to experiment with APIs
 """
-import re, os
+import os
+import re
+
 import wget
-from Submethods.phrases import *
 from bs4 import BeautifulSoup
+
 from Submethods.PennysCollection import switcher
 from Submethods.phrases import *
+from Submethods.phrases import *
+
 Client = discord.Client()
 client = commands.Bot(command_prefix = "!")
 
@@ -278,8 +282,8 @@ async def _background_():
                     await client.change_presence(game=discord.Game(name=None))
                     print("Keep being social")
 
-
 client.loop.create_task(_background_())
+
 #Token is hidden and not on Github as to be more secure.
 token = open("Key.txt", "r")
 client.run(token.read())
