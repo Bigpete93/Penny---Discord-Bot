@@ -6,7 +6,7 @@ import time
 import random
 from main import client
 
-
+#Trying to break Penny up into different files to be more friendly.
 async def body(message):
     advice = random.randint(0, 6)
     if (advice == 0):
