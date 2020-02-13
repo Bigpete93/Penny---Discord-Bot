@@ -1,10 +1,9 @@
-import discord
-from discord.ext.commands import Bot
-from discord.ext import commands
-import asyncio
-import time
 import random
 from main import client
+import random
+
+from main import client
+
 
 #Trying to break Penny up into different files to be more friendly.
 async def body(message):
@@ -23,3 +22,4 @@ async def body(message):
         await client.send_message(message.channel, "Dumpster.")
     if (advice == 6):
         await client.send_message(message.channel, "Fire. See Michael.")
+       
