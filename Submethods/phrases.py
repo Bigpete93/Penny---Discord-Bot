@@ -1,6 +1,4 @@
 import random
-from main import client
-import random
 
 from main import client
 
