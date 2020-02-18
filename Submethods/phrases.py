@@ -20,4 +20,3 @@ async def body(message):
         await client.send_message(message.channel, "Dumpster.")
     if (advice == 6):
         await client.send_message(message.channel, "Fire. See Michael.")
-       

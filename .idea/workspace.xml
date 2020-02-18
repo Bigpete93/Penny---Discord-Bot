@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d8a1617b-0f1f-4724-abf0-e2d078044924" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Submethods/phrases.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submethods/phrases.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,8 +64,7 @@
       <file leaf-file-name="phrases.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Submethods/phrases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="-17">
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -260,11 +258,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581613151936</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Comment Upgrade">
+      <created>1581907661963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581907661963</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="-7" width="1487" height="878" extended-state="6" />
+    <frame x="56" y="-7" width="1487" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49191374" visible="true" weight="0.26" />
@@ -625,8 +630,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Submethods/phrases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="-17">
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
