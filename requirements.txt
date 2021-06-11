@@ -10,4 +10,4 @@ multidict==4.5.2
 pip==10.0.1
 pycparser==2.19
 setuptools==39.1.0
-websockets==3.4
+websockets==9.1
