@@ -7,7 +7,7 @@ chardet==3.0.4
 cffi==1.12.3
 discord.py==0.16.12
 multidict==4.5.2
-pip==10.0.1
+pip==21.1
 pycparser==2.19
 setuptools==39.1.0
 websockets==3.4
